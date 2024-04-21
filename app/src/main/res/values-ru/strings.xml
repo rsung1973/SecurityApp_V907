@@ -1,0 +1,81 @@
+<resources>
+  <string name="app_name">Сигнализация</string>
+  <string name="login_title">Пользователь</string>
+  <string name="login_passwd_prompt">Пароль:</string>
+  <string name="login_passwd_ok">ХОРОШО</string>
+  <string name="login_passwd_cancel">Отмена</string>
+  <string name="main_btn_defence">ВКЛ / ВЫКЛ</string>
+  <string name="main_btn_ipc">Камера</string>
+  <string name="main_btn_zone">Зона</string>
+  <string name="main_btn_scene">Режим</string>
+  <string name="main_btn_setup">Настройки</string>
+  <string name="main_text_prompt">Текущий:</string>
+  <string name="main_text_withdraw">ВЫКЛ.</string>
+  <string name="main_text_out">Ушел</string>
+  <string name="main_text_home">Дома</string>
+  <string name="main_text_sleep">Сплю</string>
+  <string name="main_prompt_title">Подсказка:</string>
+  <string name="main_prompt_defence">Невозможно настроить при включенной защите!</string>
+  <string name="main_prompt_ok">ХОРОШО</string>
+  <string name="defence_btn_home">Дома</string>
+  <string name="defence_btn_out">Ушел</string>
+  <string name="defence_btn_sleep">Сплю</string>
+  <string name="defence_btn_withdraw">ВЫКЛ.</string>
+  <string name="scene_text_mode">Режим</string>
+  <string name="scene_text_out">Ушел</string>
+  <string name="scene_text_home">Дома</string>
+  <string name="scene_text_sleep">Сплю</string>
+  <string name="scene_text_timeout">Время активации:</string>
+  <string-array name="scene_timeout_arrays">
+    <item>НИКТО</item>
+    <item>30 сек</item>
+    <item>40 сek</item>
+    <item>60 сek</item>
+    <item>100 сek</item>
+    <item>300 сek</item>
+  </string-array>
+  <string name="zone_text_no">№</string>
+  <string name="zone_text_type">Тип</string>
+  <string name="zone_text_mode">Режим</string>
+  <string name="zone_text_delay">Задерживать</string>
+  <string name="zone_text_sensor">Датчик</string>
+  <string-array name="zone_type_arrays">
+    <item>Обычный</item>
+    <item>Экстренно</item>
+    <item>24 часа</item>
+  </string-array>
+  <string-array name="zone_mode_arrays">
+    <item>3C</item>
+    <item>НО</item>
+    <item>НЗ</item>
+    <item>ЗВОНОК</item>
+  </string-array>
+  <string-array name="zone_delay_arrays">
+    <item>0 сек</item>
+    <item>5 сek</item>
+    <item>15 сek</item>
+    <item>20 сek</item>
+    <item>25 сek</item>
+    <item>40 сek</item>
+    <item>60 сek</item>
+  </string-array>
+  <string-array name="zone_sensor_arrays">
+    <item>Дым</item>
+    <item>Газ</item>
+    <item>ИК-датчик</item>
+    <item>Дверь</item>
+    <item>Окно</item>
+    <item>Тр. кнопка</item>
+    <item>Протечка</item>
+    <item>Авар. шнур</item>
+    <item>Мед. кнопка</item>
+  </string-array>
+  <string name="setup_btn_passwd">Пароль</string>
+  <string name="setup_passwd_old">Старый:</string>
+  <string name="setup_passwd_new">Новый:</string>
+  <string name="setup_passwd_confirm">Подтвердить:</string>
+  <string name="alarm_prompt_passwd">Пароль:</string>
+  <string name="setup_btn_ok">ХОРОШО</string>
+  <string name="ipc_text_monitor">Наблюдение...</string>
+  <string name="ipc_text_err">Возникла ошибка!</string>
+</resources>

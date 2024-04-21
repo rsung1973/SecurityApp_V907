@@ -1,0 +1,2 @@
+com/dnake/security/test/BuildConfig.java
+ com.dnake.security.test.BuildConfig

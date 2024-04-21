@@ -1,0 +1,101 @@
+<resources>
+
+    <string name="app_name">Beveiliging</string>
+
+    <string name="login_title">Gebruiker</string>
+    <string name="login_passwd_prompt">Wachtwoord:</string>
+    <string name="login_passwd_ok">OK</string>
+    <string name="login_passwd_cancel">Annuleren</string>
+
+    <string name="main_btn_defence">AAN/UIT</string>
+    <string name="main_btn_ipc">Camera</string>
+    <string name="main_btn_zone">Zone</string>
+    <string name="main_btn_scene">Scene</string>
+    <string name="main_btn_setup">Instellingen</string>
+
+    <string name="main_text_prompt">Huidige:</string>
+    <string name="main_text_withdraw">UIT</string>
+    <string name="main_text_out">Weg</string>
+    <string name="main_text_home">Thuis</string>
+    <string name="main_text_sleep">Slapen</string>
+
+    <string name="main_prompt_title">Prompt:</string>
+    <string name="main_prompt_defence">Kan niet aanpassen bij ingeschakeld!</string>
+    <string name="main_prompt_ok">OK</string>
+
+    <string name="defence_btn_home">Thuis</string>
+    <string name="defence_btn_out">Uit</string>
+    <string name="defence_btn_sleep">Slapen</string>
+    <string name="defence_btn_withdraw">UIT</string>
+
+    <string name="scene_text_mode">Scene</string>
+    <string name="scene_text_out">Uit</string>
+    <string name="scene_text_home">Thuis</string>
+    <string name="scene_text_sleep">Slapen</string>
+    <string name="scene_text_timeout">Activatie Tijd:</string>
+    <string-array name="scene_timeout_arrays">
+        <item>Geen</item>
+        <item>30s</item>
+        <item>40s</item>
+        <item>60s</item>
+        <item>100s</item>
+        <item>300s</item>
+    </string-array>
+
+    <string name="zone_text_no">NO.</string>
+    <string name="zone_text_type">Type</string>
+    <string name="zone_text_mode">Modus</string>
+    <string name="zone_text_delay">Vertraging</string>
+    <string name="zone_text_sensor">Sensor</string>
+
+    <string-array name="zone_type_arrays">
+        <item>Normaal</item>
+        <item>Noodgeval</item>
+        <item>24 uur</item>
+    </string-array>
+    <string-array name="zone_mode_arrays">
+        <item>3C</item>
+        <item>NO</item>
+        <item>NC</item>
+        <item>Deurbel</item>
+    </string-array>
+    <string-array name="zone_delay_arrays">
+        <item>0 seconden</item>
+        <item>5 seconden</item>
+        <item>15 seconden</item>
+        <item>20 seconden</item>
+        <item>25 seconden</item>
+        <item>40 seconden</item>
+        <item>60 seconden</item>
+    </string-array>
+    <string-array name="zone_sensor_arrays">
+        <item>Rooksensor</item>
+        <item>Gas</item>
+        <item>Infrarood</item>
+        <item>Deurmagneet</item>
+        <item>Raammagneet</item>
+        <item>Noodgeval knoppen</item>
+        <item>Overstroming</item>
+        <item>Noodtouwen</item>
+        <item>Bedzijde knoppen</item>
+    </string-array>
+
+    <string name="setup_btn_passwd">Wachtwoord</string>
+    <string name="setup_passwd_old">Oud:</string>
+    <string name="setup_passwd_new">Nieuw:</string>
+    <string name="setup_passwd_confirm">Bevestig:</string>
+
+    <string name="alarm_prompt_passwd">Wachtwoord:</string>
+
+    <string name="setup_btn_ok">OK</string>
+
+    <string name="ipc_text_monitor">Monitoren...</string>
+    <string name="ipc_text_err">Fout opgetreden!</string>
+
+    <string name="zone_test_no">Nr.</string>
+    <string name="zone_test_type">Type</string>
+    <string name="zone_test_mode">Testmodus</string>
+    <string name="zone_test_ritardo">Vertraging </string>
+    <string name="zone_test_sensore">Sensors</string>
+
+</resources>

@@ -1,0 +1,335 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:2:1-103:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ralph\.gradle\caches\transforms-3\fc0e4e87d95d67f047ecdbed3a04c4cc\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ralph\.gradle\caches\transforms-3\d3dc1b04020dde5349a563828b949efc\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ralph\.gradle\caches\transforms-3\d76f35a08c08216004feed386d7db8d0\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.hackware1993:MagicIndicator:1.7.0] C:\Users\ralph\.gradle\caches\transforms-3\71599079188dd96c61b01944e0aaac69\transformed\jetified-MagicIndicator-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\58c33f79541fa64793747c2f03ce017d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\3cb859c1ac0dd29d128e917789be4254\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\bc4fd821a6e51a54b504be8013b5f90b\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ralph\.gradle\caches\transforms-3\b04e496035f8c1e2f42c46472bb2ce42\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\8ede10147567c2507cc51ace41c13ea6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\1bc1de6a32330280351f65a0393bdf57\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\d5ce58f194e6eb15743ad13effdd09da\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ralph\.gradle\caches\transforms-3\e7a7361ce08649d63b0b54755f88f036\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\08a78bb58e82e932da1f82c2b8b82824\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\0a2c06990f10f8bf77c6b2eafaa2d2f7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\d2646664f8d9727246d320f24126df9c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\6d6e532017af0c907cd34d38d04e17fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\26dba6039296c7e11e55695e578f012b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\973d1c6591a02ca84f2ddc5ef5b8076a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\ralph\.gradle\caches\transforms-3\e89cc30d83e7763ffd18296e3e008066\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\75cb0929a6f85c2da435fad4c201e57a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ralph\.gradle\caches\transforms-3\626641b499ffdcb66d218627adc23050\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ralph\.gradle\caches\transforms-3\82c5f8c672879a5fbe5f33ff548c9006\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\fb3449e72dc29f308cc217ab7482dbfb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\511e2a36f18b29fdf3f425e3962668f8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\5dc1b0d68d5be8d395af6b357c3240c1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\eb3bd80f829817dc46cef00554f9b4ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\998ecad2e598076d0444e5b886cc28b2\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ralph\.gradle\caches\transforms-3\d6b2c6310d0da332cb9475defea77305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ralph\.gradle\caches\transforms-3\b8e61f2d133f499e6198163cf2456f01\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ralph\.gradle\caches\transforms-3\b39e20052568115d5d6e20e605eabe6a\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\dad45be7fb3d40cd3f820bd1d6623c5b\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:2:1-103:12
+	package
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ralph\.gradle\caches\transforms-3\fc0e4e87d95d67f047ecdbed3a04c4cc\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ralph\.gradle\caches\transforms-3\fc0e4e87d95d67f047ecdbed3a04c4cc\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ralph\.gradle\caches\transforms-3\d3dc1b04020dde5349a563828b949efc\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ralph\.gradle\caches\transforms-3\d3dc1b04020dde5349a563828b949efc\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ralph\.gradle\caches\transforms-3\d76f35a08c08216004feed386d7db8d0\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ralph\.gradle\caches\transforms-3\d76f35a08c08216004feed386d7db8d0\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.hackware1993:MagicIndicator:1.7.0] C:\Users\ralph\.gradle\caches\transforms-3\71599079188dd96c61b01944e0aaac69\transformed\jetified-MagicIndicator-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.hackware1993:MagicIndicator:1.7.0] C:\Users\ralph\.gradle\caches\transforms-3\71599079188dd96c61b01944e0aaac69\transformed\jetified-MagicIndicator-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\58c33f79541fa64793747c2f03ce017d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\58c33f79541fa64793747c2f03ce017d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\3cb859c1ac0dd29d128e917789be4254\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\3cb859c1ac0dd29d128e917789be4254\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\bc4fd821a6e51a54b504be8013b5f90b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\bc4fd821a6e51a54b504be8013b5f90b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ralph\.gradle\caches\transforms-3\b04e496035f8c1e2f42c46472bb2ce42\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ralph\.gradle\caches\transforms-3\b04e496035f8c1e2f42c46472bb2ce42\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\8ede10147567c2507cc51ace41c13ea6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\8ede10147567c2507cc51ace41c13ea6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\1bc1de6a32330280351f65a0393bdf57\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\1bc1de6a32330280351f65a0393bdf57\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\d5ce58f194e6eb15743ad13effdd09da\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\d5ce58f194e6eb15743ad13effdd09da\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ralph\.gradle\caches\transforms-3\e7a7361ce08649d63b0b54755f88f036\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ralph\.gradle\caches\transforms-3\e7a7361ce08649d63b0b54755f88f036\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\08a78bb58e82e932da1f82c2b8b82824\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\08a78bb58e82e932da1f82c2b8b82824\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\0a2c06990f10f8bf77c6b2eafaa2d2f7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\0a2c06990f10f8bf77c6b2eafaa2d2f7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\d2646664f8d9727246d320f24126df9c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\d2646664f8d9727246d320f24126df9c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\6d6e532017af0c907cd34d38d04e17fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\6d6e532017af0c907cd34d38d04e17fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\26dba6039296c7e11e55695e578f012b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\26dba6039296c7e11e55695e578f012b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\973d1c6591a02ca84f2ddc5ef5b8076a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\973d1c6591a02ca84f2ddc5ef5b8076a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\ralph\.gradle\caches\transforms-3\e89cc30d83e7763ffd18296e3e008066\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\ralph\.gradle\caches\transforms-3\e89cc30d83e7763ffd18296e3e008066\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\75cb0929a6f85c2da435fad4c201e57a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\75cb0929a6f85c2da435fad4c201e57a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ralph\.gradle\caches\transforms-3\626641b499ffdcb66d218627adc23050\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ralph\.gradle\caches\transforms-3\626641b499ffdcb66d218627adc23050\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ralph\.gradle\caches\transforms-3\82c5f8c672879a5fbe5f33ff548c9006\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ralph\.gradle\caches\transforms-3\82c5f8c672879a5fbe5f33ff548c9006\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\fb3449e72dc29f308cc217ab7482dbfb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\fb3449e72dc29f308cc217ab7482dbfb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\511e2a36f18b29fdf3f425e3962668f8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\511e2a36f18b29fdf3f425e3962668f8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\5dc1b0d68d5be8d395af6b357c3240c1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\5dc1b0d68d5be8d395af6b357c3240c1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\eb3bd80f829817dc46cef00554f9b4ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\eb3bd80f829817dc46cef00554f9b4ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\998ecad2e598076d0444e5b886cc28b2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\998ecad2e598076d0444e5b886cc28b2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ralph\.gradle\caches\transforms-3\d6b2c6310d0da332cb9475defea77305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ralph\.gradle\caches\transforms-3\d6b2c6310d0da332cb9475defea77305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ralph\.gradle\caches\transforms-3\b8e61f2d133f499e6198163cf2456f01\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ralph\.gradle\caches\transforms-3\b8e61f2d133f499e6198163cf2456f01\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ralph\.gradle\caches\transforms-3\b39e20052568115d5d6e20e605eabe6a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ralph\.gradle\caches\transforms-3\b39e20052568115d5d6e20e605eabe6a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\dad45be7fb3d40cd3f820bd1d6623c5b\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ralph\.gradle\caches\transforms-3\dad45be7fb3d40cd3f820bd1d6623c5b\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:14:22-75
+uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:17:22-78
+application
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:19:5-101:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ralph\.gradle\caches\transforms-3\fc0e4e87d95d67f047ecdbed3a04c4cc\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\ralph\.gradle\caches\transforms-3\fc0e4e87d95d67f047ecdbed3a04c4cc\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ralph\.gradle\caches\transforms-3\d3dc1b04020dde5349a563828b949efc\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ralph\.gradle\caches\transforms-3\d3dc1b04020dde5349a563828b949efc\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\ralph\.gradle\caches\transforms-3\e89cc30d83e7763ffd18296e3e008066\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\ralph\.gradle\caches\transforms-3\e89cc30d83e7763ffd18296e3e008066\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\75cb0929a6f85c2da435fad4c201e57a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ralph\.gradle\caches\transforms-3\75cb0929a6f85c2da435fad4c201e57a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\ralph\.gradle\caches\transforms-3\e89cc30d83e7763ffd18296e3e008066\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:23:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:21:9-43
+	android:persistent
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:24:9-34
+	android:icon
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:26:9-44
+activity#com.dnake.security.activity.IpcActivity
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:screenOrientation
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:30:13-50
+	android:launchMode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:28:13-49
+intent-filter#action:name:com.dnake.security.activity.IpcActivity
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:31:13-33:29
+action#com.dnake.security.activity.IpcActivity
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:32:25-79
+activity#com.dnake.security.activity.PasswordActivity
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:35:9-38:53
+	android:screenOrientation
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:38:13-50
+	android:launchMode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:36:13-54
+activity#com.dnake.security.activity.SceneActivity
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:39:9-42:53
+	android:screenOrientation
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:42:13-50
+	android:launchMode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:40:13-51
+activity#com.dnake.security.activity.ZoneActivity
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:43:9-46:53
+	android:screenOrientation
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:46:13-50
+	android:launchMode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:44:13-50
+service#com.dnake.v700.security
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:48:9-52:19
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:48:18-56
+intent-filter#action:name:com.dnake.v700.security
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:49:13-51:29
+action#com.dnake.v700.security
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:50:17-66
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:50:25-63
+receiver#com.dnake.security.SysReceiver
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:54:9-67:14
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:54:19-46
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:55:13-57:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:56:25-76
+intent-filter#action:name:com.dnake.broadcast
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:58:13-60:29
+action#com.dnake.broadcast
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:59:17-62
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:59:25-59
+intent-filter#action:name:com.dnake.doorAlarm
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:61:13-63:29
+action#com.dnake.doorAlarm
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:62:17-62
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:62:25-59
+intent-filter#action:name:com.dnake.defence
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:64:13-66:29
+action#com.dnake.defence
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:65:17-60
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:65:25-57
+activity#com.dnake.security.MainActivity
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:68:9-76:20
+	android:screenOrientation
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:71:13-50
+	android:launchMode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:70:13-44
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:69:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:72:13-75:29
+action#android.intent.action.MAIN
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:73:17-69
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:73:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:74:27-74
+activity#com.dnake.security.DefenceLabel
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:77:9-80:53
+	android:screenOrientation
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:80:13-50
+	android:launchMode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:79:13-44
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:78:13-41
+activity#com.dnake.security.ZoneLabel
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:81:9-84:53
+	android:screenOrientation
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:84:13-50
+	android:launchMode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:83:13-44
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:82:13-38
+activity#com.dnake.security.SceneLabel
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:85:9-88:53
+	android:screenOrientation
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:88:13-50
+	android:launchMode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:87:13-44
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:86:13-39
+activity#com.dnake.security.SetupLabel
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:89:9-92:53
+	android:screenOrientation
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:92:13-50
+	android:launchMode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:90:13-39
+activity#com.dnake.security.AlarmLabel
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:93:9-96:53
+	android:screenOrientation
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:96:13-50
+	android:launchMode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:95:13-44
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:94:13-39
+activity#com.dnake.security.IpcLabel
+ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:97:9-100:53
+	android:screenOrientation
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:100:13-50
+	android:launchMode
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:99:13-44
+	android:name
+		ADDED from C:\Project\Android\Awtek\V907\SecurityApp\app\src\main\AndroidManifest.xml:98:13-37

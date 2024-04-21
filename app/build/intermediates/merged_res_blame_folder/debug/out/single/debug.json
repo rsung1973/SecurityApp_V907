@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_security_on.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_security_on.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_baseline_ok_64.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_ok_64.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ipc.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\activity_ipc.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_sleep_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_sleep_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_bkg.jpg.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\main_bkg.jpg"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ipc_text_bkg.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ipc_text_bkg.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_defence.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\defence.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_zone_rv.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\item_zone_rv.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_edittext_bg.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_edittext_bg.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_arrow_down_rv.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_arrow_down_rv.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_rv_diveder.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\shape_rv_diveder.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_scene_rv.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\item_scene_rv.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_monitor_left.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_monitor_left.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_defence_btn_sleep_b.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\defence_btn_sleep_b.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ipc_bkg.jpg.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ipc_bkg.jpg"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_layout_mask_5.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\shape_layout_mask_5.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ipc_btn_right.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ipc_btn_right.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_volume_pot.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_volume_pot.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_sleep.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_sleep.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_prev.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\prev.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_text.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\spinner_text.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_btn_zone.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\main_btn_zone.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_scene_header.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\layout_scene_header.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_setup_bkg.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\setup_bkg.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_outgoing_call.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_outgoing_call.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_camera.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_camera.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_security_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_security_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_right.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_right.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_alarm_bkg.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\alarm_bkg.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_call_input_bg.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_call_input_bg.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_scene.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\scene.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_apps_boot.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_apps_boot.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_set_device_filter.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_set_device_filter.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_alarm_bkg2.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\alarm_bkg2.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ipc_btn_unit.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ipc_btn_unit.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_defence_btn_sleep_a.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\defence_btn_sleep_a.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_arrow_down.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_arrow_down.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_add.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_btn_ipc.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\main_btn_ipc.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_security_zone.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_security_zone.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_volume.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_volume.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_btn_setup.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\main_btn_setup.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_defence_btn_home_a.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\defence_btn_home_a.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_search.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_set_device_search.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_set_device_search.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_pc.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pc.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_zone.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\fragment_zone.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ipc_btn_unlock_b.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ipc_btn_unlock_b.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_next.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_call_dial_bg.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_call_dial_bg.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_scene.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\activity_scene.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_setup_btn_passwd.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\setup_btn_passwd.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_setup_btn_ok.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\setup_btn_ok.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_sub_bkg2.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\sub_bkg2.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_baseline_ok_64.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_ok_64.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\anim_translate.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_set_device_edit.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_set_device_edit.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_phonebook_search_bg.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_phonebook_search_bg.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_out.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_out.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_baseline_ok_64.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_ok_64.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_check_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_check_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_setup.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\setup.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_security_scene.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_security_scene.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_baseline_ok_64.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_ok_64.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_setup_div.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\setup_div.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ipc_btn_left.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ipc_btn_left.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_alarm.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\alarm.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_monitor_right.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_monitor_right.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_btn_defence.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\main_btn_defence.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_chkbox.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\selector_chkbox.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_baseline_ok_64.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_ok_64.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_missed_call.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_missed_call.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_call_del.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_call_del.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_text2.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\spinner_text2.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_login.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_log_del.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_log_del.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_check_on.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_check_on.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ipc_btn_start.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ipc_btn_start.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_setup_btn_passwd2.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\setup_btn_passwd2.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_ipc_ctrl.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\fragment_ipc_ctrl.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_home.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_home.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_back.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_back.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_out_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_out_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_defence_btn_home_b.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\defence_btn_home_b.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_defence_btn_withdraw_b.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\defence_btn_withdraw_b.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_zone.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\zone.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_ok_64.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_ok_64.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_defence_btn_out_a.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\defence_btn_out_a.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_incoming_call.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_incoming_call.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_password.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\activity_password.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_log_call.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_log_call.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_home_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_home_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_baseline_ok_64.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_ok_64.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_1.jpg.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_1.jpg"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ipc_btn_stop.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ipc_btn_stop.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_talk_close.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_talk_close.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_defence_btn_withdraw_a.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\defence_btn_withdraw_a.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fq_off_off.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fq_off_off.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\anim_scale.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\anim\\scale.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_zone_header.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\layout_zone_header.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_zone.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\activity_zone.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_set_device_ok.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_set_device_ok.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_left.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_left.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_security_setup.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_security_setup.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\anim_rotate.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_call_btn_bg.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_call_btn_bg.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ipc_btn_unlock.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ipc_btn_unlock.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ipc_btn_start_b.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ipc_btn_start_b.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_drop_down_normal.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\shape_drop_down_normal.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\layout_ipc.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\layout\\ipc.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_btn_scene.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\main_btn_scene.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ipc_view.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\ipc_view.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_security_switch.webp.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_security_switch.webp"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_defence_btn_out_b.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\defence_btn_out_b.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_sub_bkg.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\V907\\SecurityApp\\app\\src\\main\\res\\drawable\\sub_bkg.png"
+    }
+]
